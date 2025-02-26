@@ -213,7 +213,7 @@ WHERE rank <= 3;
 
 **Output:** Stored in `output/top_3_highest_paid_employees_by_department/000000_0`
 
-### *Fetching Output to Local: *###
+### Fetching Output to Local: 
 
 ```bash
 mkdir -p /output
@@ -226,6 +226,50 @@ hdfs dfs -get /user/hive/warehouse/query_results/* /output/
 ```bash
 docker cp d70b9cb63a06:/workspaces/hive-employee-data-analysis-SriLaxmiPrasannaJoginipelli/output ./output
 ```
+
+### Queries & Output 
+
+## **1.Queries**
+
+![image](https://github.com/user-attachments/assets/557931eb-f2d8-470f-a940-909400e947bd)
+
+![image](https://github.com/user-attachments/assets/f9b4d376-b7c6-4846-97da-5fe5a323d449)
+
+![image](https://github.com/user-attachments/assets/88146933-178a-438a-bc4d-136eccd05644)
+
+![image](https://github.com/user-attachments/assets/f9baed23-ed3d-47a8-8214-737f3f310e48)
+
+## **2.Outputs**
+
+![image](https://github.com/user-attachments/assets/26d74ead-0245-4d81-9559-6a22a3b72989)
+
+![image](https://github.com/user-attachments/assets/bb85af11-c7ee-408c-a09c-6fbae9cbe007)
+
+![image](https://github.com/user-attachments/assets/ab3091fe-d138-4435-b684-f3d176dea927)
+
+![image](https://github.com/user-attachments/assets/3d88bfe5-0412-4618-9512-cace0ef056b5)
+
+![image](https://github.com/user-attachments/assets/1b688f20-1d7a-4ac4-bd57-2222c7dd8344)
+
+![image](https://github.com/user-attachments/assets/f1ac7b95-b330-4ea9-a1ff-cde1105a36c5)
+
+![image](https://github.com/user-attachments/assets/35bfa57b-1f9b-4561-b3a9-b7166ce7b1e3)
+
+![image](https://github.com/user-attachments/assets/1d235a05-e39b-4a40-b81d-7973f6e2ad42)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Conclusion
 
