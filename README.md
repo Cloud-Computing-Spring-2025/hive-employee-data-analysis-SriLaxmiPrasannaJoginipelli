@@ -255,6 +255,8 @@ docker cp d70b9cb63a06:/workspaces/hive-employee-data-analysis-SriLaxmiPrasannaJ
 
 ![image](https://github.com/user-attachments/assets/35bfa57b-1f9b-4561-b3a9-b7166ce7b1e3)
 
+![image](https://github.com/user-attachments/assets/11c55a16-5a58-4636-82e6-5ed2dede74f5)
+
 ![image](https://github.com/user-attachments/assets/1d235a05-e39b-4a40-b81d-7973f6e2ad42)
 
 
