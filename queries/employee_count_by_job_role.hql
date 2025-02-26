@@ -1,0 +1,1 @@
+SELECT job_role, COUNT(*) AS total_employees FROM employees GROUP BY job_role;
